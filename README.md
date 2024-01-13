@@ -16,6 +16,10 @@ python sqlite.py
 
 streamlit run app.py
 
+## Get Google Gemini API key
+
+https://makersuite.google.com/u/1/app/apikey?pli=1
+
 ## Example for testing the app
 
 give me the 2nd last rank student name form student table
