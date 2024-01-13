@@ -19,3 +19,7 @@ streamlit run app.py
 ## Example for testing the app
 
 give me the 2nd last rank student name form student table
+
+## Deployed setup to test
+
+https://huggingface.co/spaces/sibasispradhan/Text-To-SQL-Generative-AI
